@@ -99,5 +99,16 @@ public class Main {
         workTime = time * employees;
         System.out.println("Если в компании работает " + employees + " человек, то всего " + workTime + " часов работы может быть поделено между сотрудниками");
 
+
+
+
+
+
+
+
+
+
+
+
     }
 }
